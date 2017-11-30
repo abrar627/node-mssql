@@ -1,7 +1,7 @@
 {
-  "name": "Fishry-Apps-Kfc",
+  "name": "Node App",
   "version": "0.0.1",
-  "description": "Collection Request Experiment With Sql Connection.",
+  "description": "Sample node app for mssql connection.",
   "engines": {
     "node": ">=6.9.1"
   },
