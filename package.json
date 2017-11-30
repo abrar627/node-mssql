@@ -1,0 +1,17 @@
+{
+  "name": "Fishry-Apps-Kfc",
+  "version": "0.0.1",
+  "description": "Collection Request Experiment With Sql Connection.",
+  "engines": {
+    "node": ">=6.9.1"
+  },
+  "main": "server.js",
+  "author": "Abrar Ashfaq",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.13.3",
+    "mssql": "^4.1.0",
+    "request": "^2.83.0",
+    "tedious": "^2.1.1"
+  }
+}
